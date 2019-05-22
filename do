@@ -10,10 +10,10 @@
       <header class="site-header">
         <h1>Инструктор Кекс</h1>
         <p>Обучение начинающих котят</p>
-        <imgsrc="img/keks.png" width="359" height="159" alt="Фото Кекса">
+        <img src="img/keks.png" width="359" height="159" alt="Фото Кекса">
       </header>
 
-      <section class="features>
+      <section class="features">
         <h2>Почему я?</h2>
         <p class="feature-kitten">Я сам был котёнком, и вот я здесь</p>
         <p class="feature-train">Хозяин натренирован на 100%</p>
@@ -22,7 +22,7 @@
 
       <section class="skills">
         <h2>Чему вы научитесь?</h2>
-        <ul clas="skills-list">
+        <ul class="skills-list">
           <li class="skills-item">таскать еду из хозяйской тарелки;</li>
           <li class="skills-item standard">придавать мебели винтажный стиль;</li>
           <li class="skills-item standard">открывать дверь и не входить;</li>
